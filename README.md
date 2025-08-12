@@ -2,6 +2,9 @@
 
 This R script creates a circular synteny plot from your final synteny CSV files generated from the [synteny_finder python script](https://github.com/ian-bda/synteny_finder), automatically detecting and highlighting CD300 genes.
 
+[synteny_plot.pdf](https://github.com/user-attachments/files/21738450/synteny_plot.pdf)
+
+
 ## Features
 
 - **Dynamic Data Loading**: Automatically reads all CSV files from the `final_synteny_csvs` directory
